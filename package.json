@@ -7,5 +7,8 @@
     "test": "test"
   },
   "author": "Akram & Muizz",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.7.7"
+  }
 }
